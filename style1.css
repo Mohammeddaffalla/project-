@@ -264,9 +264,8 @@ background-color: #1DA1F2;
        color: #fff;
        margin-left: 180px; 
 
-    
-    
     }
+    
     header nav .nav-links{
     
         position: absolute;
@@ -297,8 +296,9 @@ background-color: #1DA1F2;
         color: #1c1e22;
     
     }
-    
 }
+    
+
 @media(max-width:670px){
 .container{
             flex-direction: column;
@@ -316,6 +316,5 @@ background-color: #1DA1F2;
 @media(max-width:500px){
     
 }
-
 
 
