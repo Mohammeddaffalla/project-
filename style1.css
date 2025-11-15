@@ -253,7 +253,7 @@ background-color: #1DA1F2;
     }
 }
 @media(max-width:780px){
-.btn{
+.btn-1{
         padding: 12px 25px;
     }
     #btn-menu{
@@ -316,5 +316,6 @@ background-color: #1DA1F2;
 @media(max-width:500px){
     
 }
+
 
 
